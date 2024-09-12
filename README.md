@@ -25,7 +25,7 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 
 ### Endpoint Management
 <div>
-    <img src="https://img.shields.io/badge/-NinjaOne-2C6B4F?style=for-the-badge&logo=ninja&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NinjaOne-3C91E6?&style=for-the-badge&logo=NinjaOne&logoColor=white" />
     <img src="https://img.shields.io/badge/-SentinelOne-4B275F?style=for-the-badge&logo=SentinelOne&logoColor=white" />
 
 
