@@ -3,20 +3,17 @@
 
 👋 Hi i'm an IT Technician with a strong background in managing and supporting technology solutions. I’m passionate about expanding my expertise in cybersecurity and am actively developing my skills in this field. Join me as I explore and contribute to projects aimed at enhancing security and protecting digital assets.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
 ## Objective
 
 I want to leverage my IT services background and emerging cybersecurity skills to contribute to innovative projects and solutions. I aim to enhance my expertise in cybersecurity by collaborating on real-world challenges, learning from the community, and actively participating in the development and implementation of robust security measures.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | SOC Automation Lab|
 | Log Visualization with Grafana                | SOC Automation Lab|
-|                                               | |
+| Bash Scripting                                |Cloud-Uploader |
 |                                               | |
 |                                               | |
 |                                               | |
