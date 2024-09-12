@@ -13,7 +13,7 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | SOC Automation Lab|
 | Log Visualization with Grafana                | SOC Automation Lab|
-| Bash Scripting                                |Cloud-Uploader |
+| Bash Scripting                                |<a href="https://github.com/Jacob-Brown-950/Capstone-Project-CloudUploader-CLI">Azure Lab</a> |
 |                                               | |
 |                                               | |
 |                                               | |
