@@ -52,5 +52,6 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 
 ## Projects
 
-- SOC Automation Lab
+- SOC Stack Lab
 - Capstone Project Cloud Uploader
+- 
