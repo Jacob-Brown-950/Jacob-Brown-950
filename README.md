@@ -24,6 +24,12 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 
 </div>
 
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Wazuh-005C9E?&style=for-the-badge&logo=wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Blumira-003B6F?&style=for-the-badge" />
+</div>
+
 ### Network Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -35,13 +41,6 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 <div>
     <img src="https://img.shields.io/badge/-NinjaOne-3C91E6?&style=for-the-badge&logo=NinjaOne&logoColor=white" />
     <img src="https://img.shields.io/badge/-SentinelOne-4B275F?style=for-the-badge&logo=SentinelOne&logoColor=white" />
-
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Wazuh-005C9E?&style=for-the-badge&logo=wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Blumira-003B6F?&style=for-the-badge" />
-</div>
 
 ## Projects
 
