@@ -18,7 +18,7 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 |                                               | |
 |                                               | |
 
-## Certifications
+### Certifications
 <div>
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
@@ -34,7 +34,7 @@ I want to leverage my IT services background and emerging cybersecurity skills t
     <img src="https://img.shields.io/badge/-NinjaOne-3C91E6?&style=for-the-badge&logo=NinjaOne&logoColor=white" />
     <img src="https://img.shields.io/badge/-SentinelOne-4B275F?style=for-the-badge&logo=SentinelOne&logoColor=white" />
 
-## Firewalls and Networking Brands
+### Firewalls and Networking Brands
 <div>
     <img src="https://img.shields.io/badge/-Ubiquiti-0077B6?style=for-the-badge&logo=Ubiquiti&logoColor=white" />
     <img src="https://img.shields.io/badge/-pfSense-005F5F?style=for-the-badge&logo=pfSense&logoColor=white" />
@@ -48,7 +48,7 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 </div>
 
 
-## Projects
+### Projects
 
 - SOC Automation Lab
 - Capstone Project Cloud Uploader
