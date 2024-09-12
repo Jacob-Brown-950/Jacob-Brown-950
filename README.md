@@ -21,12 +21,13 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
+<br />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-005C9E?&style=for-the-badge&logo=wazuh&logoColor=white" />
+    <br />
     <img src="https://img.shields.io/badge/-Blumira-003B6F?&style=for-the-badge" />
 </div>
 
