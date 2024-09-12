@@ -21,13 +21,11 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<br />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-005C9E?&style=for-the-badge&logo=wazuh&logoColor=white" />
-    <br />
     <img src="https://img.shields.io/badge/-Blumira-003B6F?&style=for-the-badge" />
 </div>
 
@@ -35,14 +33,12 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-pfSense-005F5F?style=for-the-badge&logo=pfSense&logoColor=white" />
-    <br />
     <img src="https://img.shields.io/badge/-SonicWall-CC0000?style=for-the-badge&logo=SonicWall&logoColor=white" />
 </div>
 
 ### Endpoint Management
 <div>
     <img src="https://img.shields.io/badge/-NinjaOne-3C91E6?&style=for-the-badge&logo=NinjaOne&logoColor=white" />
-    <br />
     <img src="https://img.shields.io/badge/-SentinelOne-4B275F?style=for-the-badge&logo=SentinelOne&logoColor=white" />
 
 ## Projects
