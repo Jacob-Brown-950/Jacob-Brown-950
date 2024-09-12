@@ -41,7 +41,7 @@ I want to leverage my IT services background and emerging cybersecurity skills t
     <img src="https://img.shields.io/badge/-SonicWall-CC0000?style=for-the-badge&logo=SonicWall&logoColor=white" />
 </div>
 
-### Network & Cyber Tools
+### Cyber Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hydra-0A5E7B?style=for-the-badge&logo=kali-linux&logoColor=white" />
