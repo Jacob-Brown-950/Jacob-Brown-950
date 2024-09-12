@@ -45,6 +45,8 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hydra-0A5E7B?style=for-the-badge&logo=kali-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logoColor=white" />
+
 </div>
 
 
