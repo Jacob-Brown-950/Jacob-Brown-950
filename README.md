@@ -27,6 +27,7 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 <div>
     <img src="https://img.shields.io/badge/-NinjaOne-2C6B4F?style=for-the-badge&logo=Ninja&logoColor=white" />
     <img src="https://img.shields.io/badge/-SentinelOne-4B275F?style=for-the-badge&logo=SentinelOne&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon%20S3-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 
 
 ### SIEM
