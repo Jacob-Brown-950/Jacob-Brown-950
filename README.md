@@ -29,11 +29,10 @@ I want to leverage my IT services background and emerging cybersecurity skills t
     <img src="https://img.shields.io/badge/-Blumira-003B6F?&style=for-the-badge" />
 </div>
 
-### Network Tools
+### Endpoint Management
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-
-</div>
+    <img src="https://img.shields.io/badge/-NinjaOne-3C91E6?&style=for-the-badge&logo=NinjaOne&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SentinelOne-4B275F?style=for-the-badge&logo=SentinelOne&logoColor=white" />
 
 ## Firewalls and Networking Brands
 <div>
@@ -42,10 +41,12 @@ I want to leverage my IT services background and emerging cybersecurity skills t
     <img src="https://img.shields.io/badge/-SonicWall-CC0000?style=for-the-badge&logo=SonicWall&logoColor=white" />
 </div>
 
-### Endpoint Management
+### Network Tools
 <div>
-    <img src="https://img.shields.io/badge/-NinjaOne-3C91E6?&style=for-the-badge&logo=NinjaOne&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SentinelOne-4B275F?style=for-the-badge&logo=SentinelOne&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+
+</div>
+
 
 ## Projects
 
