@@ -11,8 +11,8 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | SOC Automation Lab|
-| Log Visualization With Grafana                | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | SOC Stack Lab|
+| Log Visualization With Grafana                | SOC Stack Lab|
 | Scripting With Azure                              |<a href="https://github.com/Jacob-Brown-950/Capstone-Project-CloudUploader-CLI">Capstone Project</a> |
 |                                               | |
 |                                               | |
