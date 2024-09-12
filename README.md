@@ -25,7 +25,7 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Wazuh-005C9E?&style=for-the-badge&logo=wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-webtrees-005C9E?&style=for-the-badge&logo=wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Blumira-003B6F?&style=for-the-badge" />
 </div>
 
