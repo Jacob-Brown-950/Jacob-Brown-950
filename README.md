@@ -18,14 +18,11 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 |                                               | |
 |                                               | |
 
-### Firewalls
-<div>
-    <img src="https://img.shields.io/badge/-pfSense-005F5F?style=for-the-badge&logo=pfSense&logoColor=white" /> />
-</div>
-
 ### Network Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-005F5F?style=for-the-badge&logo=pfSense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SonicWall-CC0000?style=for-the-badge&logo=SonicWall&logoColor=white" />
 </div>
 
 ### Endpoint Management
