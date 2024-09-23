@@ -54,3 +54,4 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 
 - SOC Stack Lab
 - Capstone Project Cloud Uploader
+- Qualys Lab
