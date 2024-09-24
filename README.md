@@ -10,7 +10,7 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 
 ## Projects and Skills Developed
 
-| Qualys Lab                                              | SOC Stack Lab                                              | pfSense-plus-SIEM                                      |
+| [Qualys Lab](https://github.com/Jacob-Brown-950/Qualys-Lab)                                              | [SOC Stack Lab](https://github.com/Jacob-Brown-950/SOC-Stack-Lab)                                              | [pfSense-plus-SIEM](https://github.com/Jacob-Brown-950/pfSense-plus-SIEM)                                      |
 |--------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------|
 | - Installed and deployed Qualys Virtual Scanner Appliance in VirtualBox.  | - Advanced understanding of SIEM concepts.                | - Deployed Blumira sensor and configured a honeypot for enhanced security monitoring. |
 | - Executed the Vulnerability Management Lifecycle: Discovery, Prioritization, Assessment, Reporting, Remediation, and Verification. | - Proficiency in analyzing and interpreting network logs. | - Integrated dynamic blocklists with pfSense using pfBlockerNG. |
@@ -19,6 +19,7 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 | - Recognized the importance of keeping applications and OS up to date. | - Collaborated with team members to improve SIEM configurations based on real-world scenarios. | - Enhanced understanding of network protocols and their vulnerabilities. |
 | - Conducted comprehensive reporting on scan results and vulnerabilities. | - Gained experience in detecting potential security incidents and responding appropriately. | - Created intentional vulnerabilities for testing security measures. |
 | - Developed remediation plans based on risk assessments. | - Built knowledge of common attack vectors and corresponding SIEM alerts. | - Developed critical thinking and problem-solving skills in cybersecurity. |
+
 
 
 ## Tools I've Messed With
