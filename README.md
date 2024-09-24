@@ -1,5 +1,6 @@
 # Hello, I'm Jacob!
 <a href="https://www.linkedin.com/in/jacob-brown-950jrb/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 👋 Hi I'm an IT Technician with a strong background in managing and supporting technology solutions. I’m passionate about expanding my expertise in cybersecurity and am actively developing my skills in this field. Join me as I explore and contribute to projects aimed at enhancing security and protecting digital assets.
 
@@ -22,7 +23,6 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 
 ## Tools I've Messed With
 <div>
-    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-005C9E?style=for-the-badge&logo=webtrees&logoColor=white" />
     <img src="https://img.shields.io/badge/-Blumira-003B6F?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-NinjaOne-3C91E6?&style=for-the-badge&logo=NinjaOne&logoColor=white" />
