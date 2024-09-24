@@ -9,14 +9,19 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation                            | <a href="https://github.com/Jacob-Brown-950/SOC-Stack-Lab/tree/main">SOC Stack Lab|
-| Vulnerability Assessment                                              |<a href="https://github.com/Jacob-Brown-950/Qualys-Lab">Qualys Lab |
-| Vulnerability Remediation                                  |<a href="https://github.com/Jacob-Brown-950/Qualys-Lab">Qualys Lab |
-| Scripting With Azure                          | <a href="https://github.com/Jacob-Brown-950/Capstone-Project-CloudUploader-CLI">Capstone Project</a> |
-| Virtual Environments                                              | <a href="https://github.com/Jacob-Brown-950/Qualys-Lab">Qualys Lab |
-| Endpoint Deployment and Log Analysis           | <a href="https://github.com/Jacob-Brown-950/SOC-Stack-Lab/tree/main">SOC Stack Lab|
+| Qualys Lab                                              | SOC Stack Lab                                              | pfSense-plus-SIEM                                      |
+|--------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------|
+| - Installed and deployed Qualys Virtual Scanner Appliance in VirtualBox.  | - Advanced understanding of SIEM concepts.                | - Deployed Blumira sensor and configured a honeypot for enhanced security monitoring. |
+| - Executed the Vulnerability Management Lifecycle: Discovery, Prioritization, Assessment, Reporting, Remediation, and Verification. | - Proficiency in analyzing and interpreting network logs. | - Integrated dynamic blocklists with pfSense using pfBlockerNG. |
+| - Managed vulnerability scanning and addressed identified vulnerabilities. | - Developed skills in alerting and incident response procedures. | - Monitored and analyzed network traffic for potential security incidents. |
+| - Identified and remediated outdated software on Windows 10. | - Configured and optimized SIEM alerts for effective monitoring. | - Gained proficiency in using traffic analysis tools for network security. |
+| - Recognized the importance of keeping applications and OS up to date. | - Collaborated with team members to improve SIEM configurations based on real-world scenarios. | - Enhanced understanding of network protocols and their vulnerabilities. |
+| - Conducted comprehensive reporting on scan results and vulnerabilities. | - Gained experience in detecting potential security incidents and responding appropriately. | - Created intentional vulnerabilities for testing security measures. |
+| - Developed remediation plans based on risk assessments. | - Built knowledge of common attack vectors and corresponding SIEM alerts. | - Developed critical thinking and problem-solving skills in cybersecurity. |
+| - Analyzed scan results to prioritize vulnerabilities based on risk levels. | - Developed playbooks for incident response based on best practices. | - Gained ability to recognize attack signatures and patterns. |
+| - Gained hands-on experience in vulnerability assessment tools and techniques. |                                                           | - Conducted security assessments to identify potential weaknesses in systems. |
+|                                                        |                                                           | - Improved skills in generating test scenarios for vulnerability assessments. |
+
 
 ## Certifications
 <div>
