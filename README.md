@@ -1,6 +1,9 @@
 # Hello, I'm Jacob!
 <a href="https://www.linkedin.com/in/jacob-brown-950jrb/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.comptia.org/certifications/network">
+    <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+
 
 👋 Hi I'm an IT Technician with a strong background in managing and supporting technology solutions. I’m passionate about expanding my expertise in cybersecurity and am actively developing my skills in this field. Join me as I explore and contribute to projects aimed at enhancing security and protecting digital assets.
 
