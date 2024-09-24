@@ -24,14 +24,35 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 
 ## Tools I've Messed With
 <div>
-    <img src="https://img.shields.io/badge/-Wazuh-005C9E?style=for-the-badge&logo=webtrees&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Blumira-003B6F?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-NinjaOne-3C91E6?&style=for-the-badge&logo=NinjaOne&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SentinelOne-4B275F?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Ubiquiti-0077B6?&style=for-the-badge&logo=Ubiquiti&logoColor=white" />
-    <img src="https://img.shields.io/badge/-pfSense-005F5F?style=for-the-badge&logo=pfSense&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SonicWall-CC0000?style=for-the-badge&logo=SonicWall&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hydra-0A5E7B?style=for-the-badge&logo=kali-linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logoColor=white" />
+    <a href="https://wazuh.com/">
+        <img src="https://img.shields.io/badge/-Wazuh-005C9E?style=for-the-badge&logo=webtrees&logoColor=white" />
+    </a>
+    <a href="https://blumira.com/">
+        <img src="https://img.shields.io/badge/-Blumira-003B6F?&style=for-the-badge" />
+    </a>
+    <a href="https://www.ninjaone.com/">
+        <img src="https://img.shields.io/badge/-NinjaOne-3C91E6?&style=for-the-badge&logo=NinjaOne&logoColor=white" />
+    </a>
+    <a href="https://www.sentinelone.com/">
+        <img src="https://img.shields.io/badge/-SentinelOne-4B275F?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
+    </a>
+    <a href="https://www.ui.com/">
+        <img src="https://img.shields.io/badge/-Ubiquiti-0077B6?&style=for-the-badge&logo=Ubiquiti&logoColor=white" />
+    </a>
+    <a href="https://www.pfsense.org/">
+        <img src="https://img.shields.io/badge/-pfSense-005F5F?style=for-the-badge&logo=pfSense&logoColor=white" />
+    </a>
+    <a href="https://www.sonicwall.com/">
+        <img src="https://img.shields.io/badge/-SonicWall-CC0000?style=for-the-badge&logo=SonicWall&logoColor=white" />
+    </a>
+    <a href="https://www.wireshark.org/">
+        <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    </a>
+    <a href="https://www.kali.org/tools/hydra/">
+        <img src="https://img.shields.io/badge/-Hydra-0A5E7B?style=for-the-badge&logo=kali-linux&logoColor=white" />
+    </a>
+    <a href="https://nmap.org/">
+        <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logoColor=white" />
+    </a>
 </div>
+
