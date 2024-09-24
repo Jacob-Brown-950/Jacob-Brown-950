@@ -19,7 +19,7 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 | - Recognized the importance of keeping applications and OS up to date. | - Collaborated with team members to improve SIEM configurations based on real-world scenarios. | - Enhanced understanding of network protocols and their vulnerabilities. |
 | - Conducted comprehensive reporting on scan results and vulnerabilities. | - Gained experience in detecting potential security incidents and responding appropriately. | - Created intentional vulnerabilities for testing security measures. |
 | - Developed remediation plans based on risk assessments. | - Built knowledge of common attack vectors and corresponding SIEM alerts. | - Developed critical thinking and problem-solving skills in cybersecurity. |
-| - Analyzed scan results to prioritize vulnerabilities based on risk levels. | - Developed playbooks for incident response based on best practices. | - Gained ability to recognize attack signatures and patterns. |
+
 
 ## Tools I've Messed With
 <div>
