@@ -7,7 +7,7 @@
 
 I want to leverage my IT services background and emerging cybersecurity skills to contribute to innovative projects and solutions. I aim to enhance my expertise in cybersecurity by collaborating on real-world challenges, learning from the community, and actively participating in the development and implementation of robust security measures.
 
-## Skills
+## Projects and Skills Developed
 
 | Qualys Lab                                              | SOC Stack Lab                                              | pfSense-plus-SIEM                                      |
 |--------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------|
@@ -56,8 +56,4 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 </div>
 
 
-## Projects
 
-- SOC Stack Lab
-- Capstone Project Cloud Uploader
-- Qualys Lab
