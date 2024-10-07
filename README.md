@@ -19,7 +19,7 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 | - Executed the Vulnerability Management Lifecycle: Discovery, Prioritization, Assessment, Reporting, Remediation, and Verification. | - Proficiency in analyzing and interpreting network logs. | - Integrated dynamic blocklists with pfSense using pfBlockerNG. |
 | - Managed vulnerability scanning and addressed identified vulnerabilities. | - Developed skills in alerting and incident response procedures. | - Monitored and analyzed network traffic for potential security incidents. |
 | - Identified and remediated outdated software on Windows 10. | - Configured and optimized SIEM alerts for effective monitoring. | - Gained proficiency in using traffic analysis tools for network security. |
-| - Recognized the importance of keeping applications and OS up to date. | - Collaborated with team members to improve SIEM configurations based on real-world scenarios. | - Enhanced understanding of network protocols and their vulnerabilities. |
+| - Recognized the importance of keeping applications and OS up to date. | - learned to improve SIEM configurations based on real-world scenarios. | - Enhanced understanding of network protocols and their vulnerabilities. |
 | - Conducted comprehensive reporting on scan results and vulnerabilities. | - Gained experience in detecting potential security incidents and responding appropriately. | - Created intentional vulnerabilities for testing security measures. |
 | - Developed remediation plans based on risk assessments. | - Built knowledge of common attack vectors and corresponding SIEM alerts. | - Developed critical thinking and problem-solving skills in cybersecurity. |
 
