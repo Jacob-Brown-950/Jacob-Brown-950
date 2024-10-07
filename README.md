@@ -63,9 +63,6 @@ I want to leverage my IT services background and emerging cybersecurity skills t
     <a href="https://www.elastic.co/elk-stack">
         <img src="https://img.shields.io/badge/-ELK%20Stack-005571?style=for-the-badge&logo=Elastic&logoColor=white" />
     </a>
-    <a href="https://osticket.com/">
-        <img src="https://img.shields.io/badge/-osTicket-2E89A7?style=for-the-badge&logo=osTicket&logoColor=white" />
-    </a>
     <a href="https://github.com/its-a-feature/Mythic">
         <img src="https://img.shields.io/badge/-Mythic-2E3A87?style=for-the-badge&logo=github&logoColor=white" />
     </a>
