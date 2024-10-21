@@ -66,6 +66,15 @@ I want to leverage my IT services background and emerging cybersecurity skills t
     <a href="https://nmap.org/">
         <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logoColor=white" />
     </a>
+    <a href="https://www.fakedns.com/">
+        <img src="https://img.shields.io/badge/-FakeDNS-4B1F52?style=for-the-badge" />
+    </a>
+    <a href="https://www.oracle.com/">
+        <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+    </a>
+    <a href="https://www.cyberchef.io/">
+        <img src="https://img.shields.io/badge/-CyberChef-6C7A8A?style=for-the-badge" />
+    </a>
 </div>
 
 
