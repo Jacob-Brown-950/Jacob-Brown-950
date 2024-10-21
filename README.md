@@ -13,7 +13,7 @@ I want to leverage my IT services background and emerging cybersecurity skills t
 
 ## Projects and Skills Developed
 
-| [Qualys Lab](https://github.com/Jacob-Brown-950/Qualys-Lab)                                              | [30 Day SOC Project](https://github.com/Jacob-Brown-950/30-Day-SOC-Project)                                              | [pfSense-plus-SIEM](https://github.com/Jacob-Brown-950/pfSense-plus-SIEM)                                      |
+| [Malware-Analysis-Environment](https://github.com/Jacob-Brown-950/Malware-Analysis-Environment)                                              | [30 Day SOC Project](https://github.com/Jacob-Brown-950/30-Day-SOC-Project)                                              | [pfSense-plus-SIEM](https://github.com/Jacob-Brown-950/pfSense-plus-SIEM)                                      |
 |--------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------|
 | - Installed and deployed Qualys Virtual Scanner Appliance in VirtualBox.  | - Advanced understanding of SIEM concepts.                | - Deployed Blumira sensor and configured a honeypot for enhanced security monitoring. |
 | - Executed the Vulnerability Management Lifecycle: Discovery, Prioritization, Assessment, Reporting, Remediation, and Verification. | - Proficiency in analyzing and interpreting network logs. | - Integrated dynamic blocklists with pfSense using pfBlockerNG. |
